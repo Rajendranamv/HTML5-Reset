@@ -9,13 +9,3 @@ HTML5 Reset is a simple set of best practices to get web projects off on the rig
 3. Basic CSS variables
 4. Links to useful 3rd party tools
 5. Removed extraneous comments
-
-## A note on font-sizing
-
-We prefer `rem` for the simplicity; you will need to swap in `em` in `styles.css` if that's your style.
-
-## Command-line installation:
-
-```
-bower install HTML5-Reset
-```
